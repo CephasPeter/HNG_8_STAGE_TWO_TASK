@@ -5,6 +5,8 @@
 
 # HNG_8_STAGE_TWO_TASK
 
+https://user-images.githubusercontent.com/52112132/129776886-05426635-35a7-41e3-a81c-6ab4fcf38dcf.mp4
+
 ## About
 This Simple APP Collects User Outputs And Displays It In A Bottom Sheet Dialog.
 To Test The App, Click On This [Link](https://appetize.io/app/4ngxrkqqd06mqreyef4bgmcnkc)
