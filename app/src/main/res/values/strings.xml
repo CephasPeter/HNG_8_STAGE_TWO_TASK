@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HNG8_STAGE_TWO</string>
+    <string name="enter_a_text_here_and_then_press_the_button_to_display_it">Enter A Text Here And Then Press The Button To Display It</string>
+    <string name="display_text">Display Text</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="your_entered_text_is_displayed_below">Your Entered Text Is Displayed Below</string>
+    <string name="hng_8">HNG 8</string>
+</resources>
